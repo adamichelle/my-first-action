@@ -10,5 +10,9 @@
     "github action"
   ],
   "author": "Adaobi Aniuchi",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/adamichelle/my-first-action",
+    "type": "git"
+  }
 }
