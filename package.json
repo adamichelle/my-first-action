@@ -1,0 +1,14 @@
+{
+  "name": "my-first-action",
+  "version": "1.0.0",
+  "description": "My first github action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github action"
+  ],
+  "author": "Adaobi Aniuchi",
+  "license": "MIT"
+}
